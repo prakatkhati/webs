@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;webs&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../local" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/go/doc/testdata" />
+      <root url="file://$PROJECT_DIR$/../../nu7hatch/gouuid/.git" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/cmd/yacc/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/golang-web/.git" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/go/build/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/00_student_code/shawn_b/websites/static site/grunt/node_modules/grunt/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/00_student_code/shawn_b/websites/static site/grunt/node_modules/grunt/node_modules/js-yaml/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/golang-web/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/07_mcleod_web_app/08_access_control/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/GolangTraining/.git" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/cmd/go/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/go/printer/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/google/appengine/tools/devappserver2/endpoints/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/SummerBootCamp/.git" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/github.com/golang/protobuf/proto/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/00_student_code/shawn_b/websites/static site/grunt/node_modules/grunt-contrib-watch/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/07_mcleod_web_app/07_static_dirs_files/myapp/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/05_guestbook/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/07_mcleod_web_app/07_static_dirs_files/myapp02/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/07_mcleod_web_app/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/00_student_code/shawn_b/websites/static site/grunt/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/noptify/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/cmd/objdump/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/07_mcleod_web_app/07_static_dirs_files/myapp03/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/00_student_code/shawn_b/websites/static site/grunt/node_modules/grunt-autoprefixer/node_modules/chalk/node_modules/.bin" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/05_guestbook/03_handling_forms/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/runtime/race/testdata" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/07_mcleod_web_app/09_blog/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/goroot/src/cmd/api/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/.git" />
+      <root url="file://$PROJECT_DIR$/../../GoesToEleven/csuf/sp15/xx_in_process/06_metacasts/not_gone_through/go_appengine/google/appengine/_internal" />
+    </excluded>
+  </library>
+</component>
